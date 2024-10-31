@@ -151,7 +151,7 @@ The concept of ``closest customers" used to define the _ncust_ feature means the
 customers is illustrated below:
 
 <p align="center">
-<img src="https://github.com/riabova/bilevel_pricing/blob/main/img/game_scheme1a.png" width="400">
+<img src="https://github.com/riabova/NetworkEfficiency/blob/main/img/closest_custs.png" width="400">
 </p>
 
 We formulate the master problem as a minimal cover problem:
